@@ -4,6 +4,11 @@ import 'package:adv_basics/quiz.dart';
 void main() {
   runApp(const Quiz());
   print("demo1");
+  print("demo1");
+  print("demo1");
+  print("demo1");
+  print("demo1");
+  print("demo1");
 }
 
 ///new comment
